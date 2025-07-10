@@ -12,6 +12,7 @@
 
 # User-specific settings
 UserSettings/
+.vs/
 .vscode/
 .idea/
 *.csproj
